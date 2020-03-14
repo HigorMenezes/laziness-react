@@ -18,5 +18,8 @@
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.1",
     "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "create-react-app": "^3.4.0"
   }
 }

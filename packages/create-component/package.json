@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "CLI to create react component",
   "bin": {
-    "create-component": "create-component.js"
+    "create-component": "./bin/create-component.js"
   },
   "keywords": [
     "react",
