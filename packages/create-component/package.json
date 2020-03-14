@@ -1,0 +1,14 @@
+{
+  "name": "@laziness-react/create-component",
+  "version": "1.0.0",
+  "description": "CLI to create react component",
+  "bin": {
+    "create-component": "create-component.js"
+  },
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "author": "HigorMenezes",
+  "license": "MIT"
+}
