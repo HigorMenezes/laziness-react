@@ -9,6 +9,11 @@
     "react",
     "cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HigorMenezes/laziness-react",
+    "directory": "packages/create-component"
+  },
   "author": "HigorMenezes",
   "license": "MIT"
 }
